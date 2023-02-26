@@ -6,3 +6,11 @@ Differences from original one:
 4. SHIFT + ; = : (insteag of .)
 5. SHIFT + , = < (insteag of «)
 6. SHIFT + . = > (insteag of »)
+
+""""""""""""""""""""""""""
+"      INSTRUCTIONS      "
+""""""""""""""""""""""""""
+
+1. download .bundle file
+2. place in library/keyboard layouts
+3. add the keyboard in settings
